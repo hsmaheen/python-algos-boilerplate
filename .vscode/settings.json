@@ -12,8 +12,6 @@
   "python.testing.pytestEnabled": true,
   "python.testing.nosetestsEnabled": false,
   "python.testing.unittestEnabled": true,
-  "python.testing.pytestArgs": [
-    "."
-  ],
-  "python.pythonPath": "/Users/Maheen/Personal/algo-boiler-plate/python-algos/.venv/bin/python3.8"
+  "python.testing.pytestArgs": ["."],
+  "python.pythonPath": ".venv/bin/python3.8"
 }
