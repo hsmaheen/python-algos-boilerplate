@@ -1,0 +1,19 @@
+{
+  /*NOTE you need to change the path to your own vevn,
+  you can get your venv using the command "penv --py"
+  */
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./challenges",
+    "-p",
+    "*test*.py"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.unittestEnabled": true,
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.pythonPath": "/Users/Maheen/Personal/algo-boiler-plate/python-algos/.venv/bin/python3.8"
+}

@@ -1,0 +1,18 @@
+[[source]]
+name = "python-algos"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+pre-commit = "*"
+mypy = "*"
+
+[packages]
+pytest = "*"
+
+[scripts]
+test = "pipenv run pytest"
+
+[requires]
+python_version = "3.8"
