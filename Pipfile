@@ -10,6 +10,7 @@ mypy = "*"
 
 [packages]
 pytest = "*"
+pre-commit = "*"
 
 [scripts]
 test = "pipenv run pytest"

@@ -21,6 +21,7 @@ $ git clone https://github.com/hsmaheen/python-algos-boilerplate
 $ cd python-algos-boilerplate
 $ pip3 install pipenv
 $ pipenv install
+$ pre-commit install
 ```
 
 Once done close and open your VS Code terminal (`Ctrl + ~ )` and the virtual env will automatically be picker by VS Code
